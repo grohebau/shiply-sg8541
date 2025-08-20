@@ -1,0 +1,19 @@
+{
+  "G36377": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Silvio Teifel, Am Brink 8, 18209 Bad Doberan",
+    "receiver": "Sven Wollmann, Hauptstraße 34, 38871 Wasserlebend",
+    "price": "3.200 €",
+    "description": "Hersteller: Simson<br>Typ: S51 B1-4<br>Fahrgestelnummer: 4903597<br>Erstzulassung: 05/1981<br>KM laut Vorbesitzer: 1240 km<br>Leistung: 3 kW (4 PS)<br>Hubraum: 50 cm³<br>Farbe: Grün<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Sven Wollmann<br>Hauptstraße 34<br>38871 Wasserleben<br>Deutschland<br>Telefon: +49 1515 3123395",
+    "documents": [
+      { "name": "Lieferschein", "url": "docs/Lieferschein.pdf" },
+      { "name": "Kaufvertrag", "url": "docs/Kaufvertrag.pdf" },
+      { "name": "Rechnung", "url": "docs/Rechnung.pdf" },
+      { "name": "AGB", "url": "docs/AGB.pdf" }
+    ],
+    "orderDate": "20-08-2025",
+    "deliveryDate": "25-08-2025"
+  }
+}
